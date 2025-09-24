@@ -1,0 +1,13 @@
+opencv-python
+numpy
+torch
+torchvision
+diffusers
+transformers
+accelerate
+matplotlib
+albumentations
+optuna
+torchmetrics[detection]
+pandas
+seaborn
